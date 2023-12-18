@@ -1,0 +1,9 @@
+D:\VisualStudioProjects\C#\AdvancedFileSeparator\AdvancedFileSeparator\bin\Release\Advanced File Separator.exe
+D:\VisualStudioProjects\C#\AdvancedFileSeparator\AdvancedFileSeparator\bin\Release\Advanced File Separator.pdb
+D:\VisualStudioProjects\C#\AdvancedFileSeparator\AdvancedFileSeparator\obj\Release\AdvancedFileSeparator.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\AdvancedFileSeparator\AdvancedFileSeparator\obj\Release\AdvancedFileSeparator.Form1.resources
+D:\VisualStudioProjects\C#\AdvancedFileSeparator\AdvancedFileSeparator\obj\Release\VisionHelper.Properties.Resources.resources
+D:\VisualStudioProjects\C#\AdvancedFileSeparator\AdvancedFileSeparator\obj\Release\AdvancedFileSeparator.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C#\AdvancedFileSeparator\AdvancedFileSeparator\obj\Release\AdvancedFileSeparator.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\AdvancedFileSeparator\AdvancedFileSeparator\obj\Release\Advanced File Separator.exe
+D:\VisualStudioProjects\C#\AdvancedFileSeparator\AdvancedFileSeparator\obj\Release\Advanced File Separator.pdb

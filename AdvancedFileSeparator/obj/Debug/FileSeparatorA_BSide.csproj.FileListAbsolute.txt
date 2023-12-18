@@ -1,0 +1,8 @@
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorA_BSide\bin\Debug\FileSeparatorA_BSide.exe
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorA_BSide\bin\Debug\FileSeparatorA_BSide.pdb
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorA_BSide\obj\Debug\FileSeparatorA_BSide.Form1.resources
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorA_BSide\obj\Debug\FileSeparatorA_BSide.Properties.Resources.resources
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorA_BSide\obj\Debug\FileSeparatorA_BSide.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorA_BSide\obj\Debug\FileSeparatorA_BSide.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorA_BSide\obj\Debug\FileSeparatorA_BSide.exe
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorA_BSide\obj\Debug\FileSeparatorA_BSide.pdb

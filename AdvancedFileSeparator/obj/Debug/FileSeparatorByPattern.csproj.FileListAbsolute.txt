@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorA_BSide\obj\Debug\FileSeparatorByPattern.Form1.resources
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorA_BSide\obj\Debug\FileSeparatorByPattern.Properties.Resources.resources
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorA_BSide\obj\Debug\FileSeparatorByPattern.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorA_BSide\obj\Debug\FileSeparatorByPattern.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Debug\FileSeparatorByPattern.Form1.resources
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Debug\FileSeparatorByPattern.Properties.Resources.resources
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Debug\FileSeparatorByPattern.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Debug\FileSeparatorByPattern.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\bin\Debug\FileSeparatorByPattern.exe
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\bin\Debug\FileSeparatorByPattern.pdb
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Debug\FileSeparatorByPattern.exe
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Debug\FileSeparatorByPattern.pdb
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Debug\FileSeparatorByPattern.csproj.AssemblyReference.cache

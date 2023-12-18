@@ -1,0 +1,16 @@
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Release\FileSeparatorByPattern.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Release\FileSeparatorByPattern.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Release\VH.Form1.resources
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\bin\Release\VisionHelper.exe
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\bin\Release\VisionHelper.pdb
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Release\VisionHelper.Properties.Resources.resources
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Release\VisionHelper.exe
+D:\VisualStudioProjects\C#\FileSeparatorA_BSide\FileSeparatorByPattern\obj\Release\VisionHelper.pdb
+D:\VisualStudioProjects\C#\FileSeparatorByPattern\FileSeparatorByPattern\bin\Release\Advanced File Separator.exe
+D:\VisualStudioProjects\C#\FileSeparatorByPattern\FileSeparatorByPattern\bin\Release\Advanced File Separator.pdb
+D:\VisualStudioProjects\C#\FileSeparatorByPattern\FileSeparatorByPattern\obj\Release\VH.Form1.resources
+D:\VisualStudioProjects\C#\FileSeparatorByPattern\FileSeparatorByPattern\obj\Release\VisionHelper.Properties.Resources.resources
+D:\VisualStudioProjects\C#\FileSeparatorByPattern\FileSeparatorByPattern\obj\Release\FileSeparatorByPattern.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C#\FileSeparatorByPattern\FileSeparatorByPattern\obj\Release\FileSeparatorByPattern.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\FileSeparatorByPattern\FileSeparatorByPattern\obj\Release\Advanced File Separator.exe
+D:\VisualStudioProjects\C#\FileSeparatorByPattern\FileSeparatorByPattern\obj\Release\Advanced File Separator.pdb
